@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity project:</h2>
 
-- [Active Directory Home Lab](https://github.com/MohamadKhasan/homelab)
+- [Active Directory Home Lab](https://github.com/MohamadKhasan/ActiveDirectoryHomeLab)
 - [CTF Competition](https://github.com/MohamadKhasan/ctfcompetition)
 
 <h2>📃 Certification:</h2>
