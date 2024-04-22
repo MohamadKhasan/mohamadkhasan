@@ -1,11 +1,11 @@
 <h1>Hi, I'm Mohamad!</h1>
 
-<h2>👨‍💻 Cybersecurity project:</h2>
+<h2>👨‍💻 Cybersecurity project</h2>
 
 - [Active Directory Home Lab](https://github.com/MohamadKhasan/ActiveDirectoryHomeLab)
 - [CTF Competition](https://github.com/MohamadKhasan/ctfcompetition)
 
-<h2>📃 Certification:</h2>
+<h2>📃 Certification</h2>
 
 - [Google Cybersecurity Professional](https://coursera.org/share/e8a45fbfd7dcf95ccd58ae1c8feec97d)
 
